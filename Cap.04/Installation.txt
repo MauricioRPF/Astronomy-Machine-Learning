@@ -1,0 +1,19 @@
+Installation:-
+- Python
+- VS Code
+
+Setup
+- Download the pipeline to your system using joblib
+- Create an empty directory
+- Add requirements.txt and pipeline.joblib to that directory
+- Create a virtual environment for the project
+- Install the requirements
+- Create a python file to store star types data
+- Create a python file to store the star properties
+- Create the main file to create fastapi app
+
+Run the app via webserver that uses the ASGI specificaitions 
+- We will use Uvicorn 
+
+Once confirmed with the work
+- Add the project to GitHub
