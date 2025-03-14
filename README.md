@@ -48,7 +48,7 @@ Here i'll cover the basics of python language that are necessary for the project
 
 ## [CHAPTER 03](https://github.com/MauricioRPF/Astronomy-machine-learning/tree/main/Cap.03)
 
-#### Linear Regression (LR)
+### Linear Regression (LR)
 
 1. Generating Data for LR
 2. Model Parameters and Hyperparameters
@@ -57,12 +57,12 @@ Here i'll cover the basics of python language that are necessary for the project
 
 ## [CHAPTER 04](https://github.com/MauricioRPF/Astronomy-machine-learning/tree/main/Cap.04)
 
-#### Cap 04.01
+### Cap 04.01
 
 1. Creating Data Frame and Organizing Features
 2. Preparing the output
 
-#### Cap 04.02
+### Cap 04.02
 
 Creating and Setting API
 
@@ -75,3 +75,21 @@ if you are following the project trying to reproduce it:
 1. Create a local project folder
 2. Download all the .py files and the requirements.txt file inside it
 3. Follow the [Cap 04.02](https://github.com/MauricioRPF/Astronomy-machine-learning/blob/main/Cap.04/Cap.04.02.ipynb) notebook instructions from there
+
+## [CHAPTER 05](https://github.com/MauricioRPF/Astronomy-machine-learning/blob/main/Cap.05/Cap.05.02.ipynb)
+
+### Cap 05.01 
+
+0. <b>Classifying celestial bodies </b>
+
+1. Importing and exploring data
+2. Creating Visualizations
+3. Preparing data
+4. Preprocessing
+5. Building network
+6. Compiling and training the model
+7. Testing the model
+
+### Cap 05.02
+
+Here i'm gonna test the exported, model, scaler and encoder, developed on the past notebook
