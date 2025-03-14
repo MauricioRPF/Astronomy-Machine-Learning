@@ -93,3 +93,17 @@ if you are following the project trying to reproduce it:
 ### Cap 05.02
 
 Here i'm gonna test the exported, model, scaler and encoder, developed on the past notebook
+
+## [CHAPTER 06](https://github.com/MauricioRPF/Astronomy-machine-learning/blob/main/Cap.06/Cap.06.ipynb)
+
+Galaxy Morphology Classification Using images and CNN model.
+
+[PDF](https://github.com/MauricioRPF/Astronomy-machine-learning/blob/main/Cap.06/CNN.pdf) briefly explaing the concept of CNN and how it works with image processing 
+## <b>!Note!</b>
+If you are trying to reproduce it, be aware that this was done on kaggle, since you can load the dataset from their repository directly into their notebook(i 'll show it on the chapter itself)
+
+1. Preparing the Data
+2. Processing it
+3. Building the CNN model
+4. Compiling, training validating and predicting
+
